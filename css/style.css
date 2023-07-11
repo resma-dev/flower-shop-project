@@ -206,6 +206,16 @@ ul,ol{
     padding-top: 48px;
 }
 /* INSTAGRAM CSS END  */
+/* OUR NEW ARRIVALS CSS START  */
+.new-arrivals{
+    padding-bottom: 128px;
+}
+.new-flower-item{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+/* OUR NEW ARRIVALS CSS END  */
 /* GET THE LATEST DEALS CSS START  */
 .latest-deals-part{
     padding-bottom: 128px;
